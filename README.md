@@ -6,7 +6,7 @@ Allows users to look for books and save them to their account
 
 #Installation
 
-Npm I
+Npm I,
 Npm run Dev
 
 #credits
